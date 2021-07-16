@@ -1,6 +1,6 @@
 # term_img_printer
 
-[screenshots](https://raw.githubusercontent.com/fa0311/term-img-printer/master/docs/img/screenshots.png)<br>
+![screenshots](https://raw.githubusercontent.com/fa0311/term-img-printer/master/docs/img/screenshots.png)<br>
 [term-printer](https://github.com/nanato12/term-printer "term-printer") を利用したターミナルに画像を出力するプログラムです<br>
 
 ## Why?
